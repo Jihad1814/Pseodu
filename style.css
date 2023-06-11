@@ -135,3 +135,7 @@ nav > ul >li > ul{
     font-weight: 700;
 }
 
+nav > ul > li{
+    margin-left: 20px;
+    margin-right: 20px;
+}
